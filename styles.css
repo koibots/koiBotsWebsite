@@ -1,3 +1,7 @@
+/*
+KoiBots purple: #662d91
+*/
+
 body {
   margin: 0;
   font-size: 28px;
@@ -24,6 +28,6 @@ body {
 }
 
 #navbar a.active {
-  background-color: #4CAF50;
+  background-color: #662d91;
   color: white;
 }
