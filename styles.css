@@ -12,6 +12,9 @@ body {
 img {
   size: 80%;
 }
+.a {
+  size: 10%;
+}
 #navbar {
   overflow: hidden;
   background-color: #333;
@@ -27,7 +30,7 @@ img {
 }
 #navbar a.active {
   background-color: #662d91;
-  color: white;
+  color: #FFF;
 }
 #navbar a:hover {
   background-color: #ddd;
