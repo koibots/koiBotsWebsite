@@ -53,12 +53,12 @@ img {
   background-color: #662d91;
   color: #FFF;
 }
-#navbar a img.active {
-  background-color: #333;
-}
 #navbar a:hover {
   background-color: #FFFE30;
   color: black;
+}
+#navbar a img.active {
+  background-color: none;
 }
 section {
   padding: 5vw;
